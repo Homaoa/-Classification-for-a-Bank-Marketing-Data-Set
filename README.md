@@ -1,6 +1,6 @@
 # Classification for a Bank Marketing DataSet
 
-A model is developed to predict if a client subscribes to a marketing campaign or not. The raw data is obtained from UCI website. Data cleaning, model building and evaluating are done on the data. Logistic regression, K_nearest neighbors, Support vector machine, Kernel SVM, Naive bayes, Decision tree classification, and Random tree classification models are considered.
+A model is developed to predict if a client subscribes to a marketing campaign or not. The raw data is obtained from UCI website. Data cleaning, model building and evaluating are done on the data. Logistic regression, K_nearest neighbors, Support vector machine, Kernel SVM, Naive bayes, Decision tree classification, Random tree classification and XGBoost models are considered.
 
 Data source : https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
@@ -14,7 +14,7 @@ I have used histograms, bar charts and pivot tables to gain some insight. Then I
 
 Model :
 
-After finding the variables with the most correlations, I have started the machine learning phase of the project. I have split the data to 75% train and 25% test. Then I have scaled the numeric variables. Logistic regression, K_nearest neighbors, Support vector machine, Kernel SVM, Naive bayes, Decision tree classification, and Random tree classification models have been used.
+After finding the variables with the most correlations, I have started the machine learning phase of the project. I have split the data to 75% train and 25% test. Then I have scaled the numeric variables. Logistic regression, K_nearest neighbors, Support vector machine, Kernel SVM, Naive bayes, Decision tree classification, Random tree classification and XGBoost models have been used.
 
 Model performance :
 
